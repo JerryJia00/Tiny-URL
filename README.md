@@ -11,6 +11,7 @@ A short URL is a condensed version of a long URL, created using algorithms or se
 
 ## Links
 
+#Note - I suggest you adjust the video speed to 1.5 if you feel my talking speed is too slow
 1. https://youtu.be/ONqwItJ3cqw - ShortURL architecture.
 2. https://youtu.be/M7NySllpJ64 - Demo
 3. https://youtu.be/oihjltR-7- - Why ShortURL
